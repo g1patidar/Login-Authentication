@@ -1,0 +1,26 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.navar{
+   
+    background-color: #5C5696;
+    border-bottom: 2px solid black;
+}
+.navar ul{
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+    padding: 0px;
+    margin-left: 150px;
+}
+.navar ul li{
+    list-style: none;
+}
+.navar ul li a{
+    color: white;
+    text-decoration: none;
+    font-size: 25px;
+	font-weight: 600;
+    text-shadow: 2px 2px 3px black;
+}
